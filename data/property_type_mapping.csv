@@ -1,0 +1,78 @@
+﻿ll84_property_type,ll97_property_type,revised_ll97_occupancy_group_letter,factor_2024,factor_2030
+Adult Education,Other - Education,B,0.00846,0.00453
+Ambulatory Surgical Center,Other - Other,B,0.00846,0.00453
+Automobile Dealership,Other - Other,B,0.00846,0.00453
+Bank Branch,Bank,B,0.00846,0.00453
+Bar/Nightclub,Other - Bar/Night Club,A,0.01074,0.0042
+Bowling Alley,Other - Other,A,0.01074,0.0042
+College/University,College University,B,0.00846,0.00453
+Convenience Store without Gas Station,Convenience Store without Gas Station,M,0.01181,0.00403
+Convention Center,Other - Other,A,0.01074,0.0042
+Courthouse,Court House,A,0.01074,0.0042
+Data Center,Data Center,B,0.00846,0.00453
+Distribution Center,Distribution Center,S,0.00426,0.0011
+Enclosed Mall,Other - Enclosed Mall,M,0.01181,0.00403
+Energy/Power Station,Other - Energy/Power Station,U,0.00426,0.0011
+Fast Food Restaurant,Other - Fast Food Restaurant,A,0.01074,0.0042
+Financial Office,Financial Office,B,0.00846,0.00453
+Fire Station,Other - Fire Station,B,0.00846,0.00453
+Fitness Center/Health Club/Gym,Other - Fitness Center,A,0.01074,0.0042
+Food Sales,Food Sales,M,0.01181,0.00403
+Food Service,Other - Food Service,A,0.01074,0.0042
+Heated Swimming Pool,Other - Other,A,0.01074,0.0042
+Hospital (General Medical & Surgical),Hospital,I-2,0.02381,0.0133
+Hotel,Hotel,R-1,0.00987,0.00526
+Ice/Curling Rink,Other - Other,A,0.01074,0.0042
+Indoor Arena,Other - Other,A,0.01074,0.0042
+K-12 School,School,E,0.00758,0.00344
+Laboratory,Other - Other,B,0.00846,0.00453
+Library,Other - Library,E,0.00758,0.00344
+Lifestyle Center,Other - Other,B,0.00846,0.00453
+Mailing Center/Post Office,Other - Mailing Center/Post Office,B,0.00846,0.00453
+Manufacturing/Industrial Plant,Other - Other,F,0.00574,0.00167
+Medical Office,Medical Office,B,0.00846,0.00453
+Movie Theater,Other - Movie Theater,A,0.01074,0.0042
+Multifamily Housing,Multifamily Housing,R-2,0.00675,0.00407
+Museum,Other - Museum,A,0.01074,0.0042
+Non-Refrigerated Warehouse,Warehouse Unrefrigerated,S,0.00426,0.0011
+Not Available,Other - Other,B,0.00846,0.00453
+Office,Office,B,0.00846,0.00453
+Other,Other - Other,B,0.00846,0.00453
+Other - Education,Other - Education,E,0.00758,0.00344
+Other - Entertainment/Public Assembly,Other - Entertainment/Public Assembly,A,0.01074,0.0042
+Other - Lodging/Residential,Other - Lodging/Residential,R-2,0.00675,0.00407
+Other - Mall,Other - Mall - Other,M,0.01181,0.00403
+Other - Public Services,Other - Public Services,B,0.00846,0.00453
+Other - Recreation,Other - Recreation,A,0.01074,0.0042
+Other - Restaurant/Bar,Other - Restaurant/Bar,A,0.01074,0.0042
+Other - Services,Other - Services,B,0.00846,0.00453
+Other - Specialty Hospital,Other - Hospital (Specialty),I-2,0.02381,0.0133
+Other - Technology/Science,Other - Other,B,0.00846,0.00453
+Other - Utility,Other - Other,U,0.00426,0.0011
+Outpatient Rehabilitation/Physical Therapy,Other - Outpatient Rehabilatation/Physical Therapy,B,0.00846,0.00453
+Parking,Parking,S,0.00426,0.0011
+Performing Arts,Other - Performing Arts,A,0.01074,0.0042
+Police Station,Other - Police Station,B,0.00846,0.00453
+Pre-school/Daycare,Other - Other,E,0.00758,0.00344
+Prison/Incarceration,Other - Other,I-3,0.02381,0.0133
+Refrigerated Warehouse,Warehouse Refrigerated,S,0.00426,0.0011
+Residence Hall/Dormitory,Other - Other,R-1,0.00987,0.00526
+Residential Care Facility,Residential Care Facility,I-1,0.01138,0.00598
+Restaurant,Restaurant,A,0.01074,0.0042
+Retail Store,Retail,M,0.01181,0.00403
+Self-Storage Facility,Other - Self Storage Facility,S,0.00426,0.0011
+Senior Care Community,Senior Care,I-1,0.01138,0.00598
+Senior Living Community,Other - Other,I-1,0.00846,0.00453
+Single Family Home,Other - Other,R-2,0.00675,0.00407
+Social/Meeting Hall,Other - Social/Meeting Hall,A,0.01074,0.0042
+Stadium (Open),Other - Other,A,0.01074,0.0042
+Strip Mall,Other - Mall - Strip,M,0.01181,0.00403
+Supermarket/Grocery Store,Supermarket,M,0.01181,0.00403
+Transportation Terminal/Station,Other - Other,A,0.01074,0.0042
+Urgent Care/Clinic/Other Outpatient,Other - Urgent Care/Clinic/Other Outpatient,B,0.00846,0.00453
+Veterinary Office,Other - Veterinary Office,B,0.00846,0.00453
+Vocational School,Other - Vocational School,B,0.00846,0.00453
+Wastewater Treatment Plant,Other - Other,F,0.00574,0.00167
+Wholesale Club/Supercenter,Wholesale Club/Supercenter,M,0.01181,0.00403
+Worship Facility,House Worship,A,0.01074,0.0042
+Zoo,Other - Other,A,0.01074,0.0042
